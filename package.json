@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "homepage": "http://diogolima-creator.github.io/LojaVirtual/",
+=======
+>>>>>>> 926d98432710cd1cf5d90e64d4fed799701469a6
   "name": "lojavirtual",
   "version": "0.1.0",
   "private": true,
@@ -31,8 +34,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
