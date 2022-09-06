@@ -1,7 +1,7 @@
 
 # Loja Virtual 
 
-Este foi meu primeiro projeto usando NodeJS, com o intuito começar os estudos em backend, foi o primeiro sistema de cadastro e autenticação que fiz usando mongoDB. E também um dos desafios era conseguir criar um sistema de carrinho usando localStorage.
+Este foi meu primeiro projeto usando NodeJS, com o intuito começar os estudos em backend, foi o primeiro sistema de cadastro e autenticação que fiz usando mongoDB. E também um dos desafios era conseguir criar um sistema de carrinho usando React-Context.
 ## Stack utilizada
 
 **Front-end:** ReactJS, Styled-Components
