@@ -9,6 +9,20 @@ Este foi meu primeiro projeto usando NodeJS, com o intuito começar os estudos e
 **Back-end:** NodeJS, Firebase(Storage)
 
 
+## Demonstração
+
+HomePage + Carrinho
+
+![image](https://user-images.githubusercontent.com/62246037/188641329-d1629509-e9ed-4b70-894f-6836fadb11b6.png)
+
+Área de Busca
+
+![image](https://user-images.githubusercontent.com/62246037/188640988-71eb5723-b25b-4d1e-9bda-89a7cde67f78.png)
+
+Carrinho de Compras
+![image](https://user-images.githubusercontent.com/62246037/188641190-f67fd786-7870-4a5d-a702-9b9eb4c5d057.png)
+
+
 ## Instalação
 
 Instale meu projeto usando gitBash e com npm
